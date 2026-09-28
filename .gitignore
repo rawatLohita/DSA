@@ -1,0 +1,10 @@
+# C / C++ Executables and Build Files
+*.exe
+*.out
+*.o
+*.obj
+*.app
+
+
+# VS Code Configuration (Optional)
+.vscode/
